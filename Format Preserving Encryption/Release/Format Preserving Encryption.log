@@ -1,0 +1,22 @@
+﻿  FPE.c
+FPE.c(47): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+FPE.c(76): warning C4101: 'decimalsecondhalf': unreferenced local variable
+FPE.c(76): warning C4101: 'decimalfirsthalf': unreferenced local variable
+FPE.c(123): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+FPE.c(205): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+FPE.c(205): warning C4024: 'convert_to_number': different types for formal and actual parameter 1
+FPE.c(319): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+FPE.c(319): warning C4024: 'encryprion_function': different types for formal and actual parameter 1
+FPE.c(340): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+FPE.c(340): warning C4024: 'convert_to_number': different types for formal and actual parameter 1
+FPE.c(378): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+FPE.c(378): warning C4024: 'encryprion_function': different types for formal and actual parameter 1
+FPE.c(405): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+FPE.c(405): warning C4024: 'convert_to_number': different types for formal and actual parameter 1
+FPE.c(297): warning C4101: 'decrypted_reverse_for_int_conversion': unreferenced local variable
+FPE.c(426): warning C4013: 'getch' undefined; assuming extern returning int
+  Generating code
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Format Preserving Encryption.vcxproj -> C:\Users\SWalishe\Desktop\FPE\Format Preserving Encryption\Release\Format Preserving Encryption.exe
+  Format Preserving Encryption.vcxproj -> C:\Users\SWalishe\Desktop\FPE\Format Preserving Encryption\Release\Format Preserving Encryption.pdb (Full PDB)
